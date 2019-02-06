@@ -1,0 +1,50 @@
+Grand Theft Auto V - Work Van SPRINTER - REPLACEMENT 1.1
+!!RATE AND COMMENT!!
+Let me know what you think!
+
+
+
+Model : 3D Model's - ChrisR [I TAKE NO CREDIT FROM THE MODEL]
+Poly's Lowered - Tim
+GTAIV Author - BritishGamer88n [I TAKE NO CREDIT FROM THE MODEL]
+Edited Futher For IV - BritishGamer88
+Converted over to GTAV - BritishGamer88 / JJGaming-Youtube
+Texture's/Material's - BritishGamer88
+Template - BritishGamer88
+Police Lightbar - Rockstar Games/ Edit to British version by BritishGamer88
+Grill Lights - Rockstar Games
+Skin - JJGaming - Youtube
+Wheel's - Forza
+Police Cage - Kinksta100
+
+-----------------------------------------------------------------------
+
+| Install |
+---------------------
+GO TO
+
+!!!----VAN----!!!
+
+REPLACE
+Van Files - 1.0 Mercedess Sprinter Worker Van [REPLACE] -By JJGaming-youtube\Van Files\Files\MODS\x64e.rpf
+
+!!!IMPORTANT FOR LIGHTS TO WORK!!!
+
+Vehicles Meta - 1.0 Mercedess Sprinter Worker Van [REPLACE] -By JJGaming-youtube\Van Files\Files\MODS\update\update.rpf\common\data\levels\gta5
+
+CarVariations - 1.0 Mercedess Sprinter Worker Van [REPLACE] -By JJGaming-youtube\Van Files\Files\MODS\update\x64\dlcpacks\mpluxe2\dlc.rpf\common\data
+
+
+IN GAME SPAWN - SPEEDO (WILL SPAWN NATURALLY)
+
+
+REPLACE THE PLATE FILE
+
+MODS\x64e.rpf\speedo.ytd
+
+NOTE - IF NO PLATE FILE IS THERE THEM [IMPORT] THE FILE INTO THE YTD LIST! THIS WILL ADD THE PLATE IN-GAME!
+
+---- ENJOY ----
+
+
+AGAIN! I TAKE NO CREDIT FOR THE MODEL!
